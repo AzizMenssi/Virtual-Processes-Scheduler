@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Fonctions.cpp
+d:\mini-projet\mini-projet\fonctions.cpp(3): warning C4005: 'MAX' : redéfinition de macro
+  d:\mini-projet\mini-projet\biblio.h(5): note: voir la définition précédente de 'MAX'
+  Génération de code en cours...
+  Mini-Projet.vcxproj -> D:\Mini-Projet\Debug\Mini-Projet.exe
